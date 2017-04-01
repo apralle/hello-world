@@ -1,2 +1,6 @@
 # hello-world
-training place
+
+Hello rafters,
+
+Arnd here. I like to share bimFCS
+
